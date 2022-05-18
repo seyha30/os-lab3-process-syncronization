@@ -2,7 +2,7 @@ package com;
 
 public class BankAccount {
 
-	private double balance;
+	private  double balance;
 
 	public BankAccount(double amount) {
 		this.balance = amount;
